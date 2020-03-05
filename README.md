@@ -2,8 +2,8 @@
 云小微对外API文档
 
 ## 阅读建议
-1. 首先阅读[接入指南](https://github.com/TencentDingdang/TVS-Gateway-Api/blob/master/%E6%8E%A5%E5%85%A5%E6%8C%87%E5%8D%97.md)，所有业务接口都会基于这个文档。
-2. 再接入业务接口
+1. 首先阅读[接入指南](https://github.com/TencentDingdang/TVS-Gateway-Api/blob/master/%E6%8E%A5%E5%85%A5%E6%8C%87%E5%8D%97.md)，所有业务接口协议都基于这个文档。
+2. 再根据具体的业务接口协议进行接入。
 
 
 ## 业务接口列表
